@@ -1,3 +1,4 @@
+-- записей на милион не создала, с  xml path - знакома поверхностно
 select resultList =
 (
     SELECT "text()" =

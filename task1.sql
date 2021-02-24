@@ -1,3 +1,4 @@
+--считаю что только Customer =2, полностью оплатил заказы
 select c.id as customer_id, c.name as customer_name
      ,o.slide_order_summ
      ,p.paymet
